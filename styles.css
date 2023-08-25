@@ -2,7 +2,12 @@
 th{
 	background-color : blue;
 	color : white;
+	
 }
 tr{
 	background-color : white;
+}
+
+tbody{
+	border : 1px solid black;
 }
